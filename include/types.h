@@ -70,6 +70,9 @@ _SIGNED_EXPAND(long);
 _TYPE_EXPAND(long_long);
 _SIGNED_EXPAND(long_long);
 
+_TYPE_EXPAND(size_t);
+_TYPE_EXPAND(ssize_t);
+
 /* inttypes.h */
 _TYPE_EXPAND(imaxdiv_t);
 _TYPE_EXPAND(wchar_t);
