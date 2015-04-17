@@ -2,8 +2,8 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#include "macro.h"
-#include "maybe"
+#include "maybe/macro.h"
+#include "maybe.h"
 
 #ifndef MAYBE_TYPES_H
 #define MAYBE_TYPES_H
